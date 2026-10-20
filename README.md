@@ -14,7 +14,7 @@ NASA FIRMS MODIS C6.1 active fire detections (contiguous United States). Attribu
 ## Hypothesis
 Higher initial brightness (intensity) is associated with faster or more extensive simulated spread.
 
-## Planned / Generated Outputs
+## Generated Outputs
 - Scatter plot of fire locations
 - Histogram of brightness values
 - Time series of active fires
